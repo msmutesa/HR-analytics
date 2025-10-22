@@ -7,9 +7,9 @@ It helps the HR department monitor key metrics such as employee turnover, gender
 
 
 ## 🎯Objectives
--Visualize employee distribution across departments, gender and age groups.
--Analyze salary trends and performance ratings.
-Enable data-driven HR decision-making.
+- Visualize employee distribution across departments, gender and age groups.
+- Analyze salary trends and performance ratings.
+- Enable data-driven HR decision-making.
 
 
 ## 📊Dashboard Features
