@@ -13,12 +13,12 @@ Enable data-driven HR decision-making.
 
 
 ## 📊Dashboard Features
-Employee overview- total employees, active vs exited
-Demographic analysis- age, gender and department.
-Performance and Salary Analysis- comparing ratings, salary and experience.
+- Employee overview- total employees, active vs exited
+- Demographic analysis- age, gender and department.
+- Performance and Salary Analysis- comparing ratings, salary and experience.
 
 
 ## ⚙️Tools and Technologies
-Power BI Desktop- dashboard design and visuals
-Excel/CSV- data source and preprocessing.
-DAX- calculated measures and KPIs
+- Power BI Desktop- dashboard design and visuals
+- Excel/CSV- data source and preprocessing.
+- DAX- calculated measures and KPIs
