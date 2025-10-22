@@ -22,3 +22,13 @@ It helps the HR department monitor key metrics such as employee turnover, gender
 - Power BI Desktop- dashboard design and visuals
 - Excel/CSV- data source and preprocessing.
 - DAX- calculated measures and KPIs
+
+## 🖼️DASHBOARD OVERVIEW
+<img width="1310" height="749" alt="image" src="https://github.com/user-attachments/assets/6ad31914-a8e0-4b9f-b973-9ce4f083aadd" />
+<img width="1302" height="751" alt="image" src="https://github.com/user-attachments/assets/886af417-4200-4a79-a960-c1db2b8e1ed9" />
+
+## 🕴️AUTHOR
+BLESSING MUTESA
+📧 blessingmutesa@gmail.com
+
+
